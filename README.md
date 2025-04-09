@@ -1,16 +1,101 @@
-## Hi there 👋
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Vipin Yadav</h1>
+<h3 align="center">Full Stack Developer | React & Spring Boot Enthusiast</h3>
 
-<!--
-**vipinyadav2k/vipinyadav2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/vipinyadav2k">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Web+Developer;Spring+Boot+%7C+Next.js+Lover;Building+Cool+Web+Apps+🚀;&center=true&width=500&height=45">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Connect with me  
+<p align="left">
+  <a href="mailto:vipinyadav2k@gmail.com"><img src="https://img.shields.io/badge/Gmail-vipinyadav2k@gmail.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://linkedin.com/in/vipin-yadav-vy"><img src="https://img.shields.io/badge/LinkedIn-vipin--yadav--vy-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/vipinyadav2k"><img src="https://img.shields.io/badge/GitHub-vipinyadav2k-black?style=for-the-badge&logo=github"></a>
+</p>
+
+---
+
+### 🚀 Tech Stack
+
+#### 👨‍💻 Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+
+#### 💻 Frontend
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+![GSAP](https://img.shields.io/badge/-GSAP-black?style=flat-square&logo=greensock)
+
+#### 🔙 Backend
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=spring)
+
+#### 🗃️ Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+
+#### ☁️ DevOps & Tools
+![GCP](https://img.shields.io/badge/-GCP-black?style=flat-square&logo=google-cloud)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+
+---
+
+### 💼 Experience Highlights
+
+- 🧠 Full Stack Developer at **Universal Technical Systems**
+- 🔧 Migrated legacy desktop app to web (50% faster performance)
+- 🧱 Built 3D visualizations for 52+ spring types with **Three.js**
+- 🧾 Developed an Admin Panel to manage ops, invoices & tracking
+- 🛠 Created company knowledge base for internal documentation
+- 🚀 Assisted in GCP cloud migration for better performance
+
+---
+
+### 🌟 Projects
+
+🔹 [PromptVerse](https://github.com/vipinyadav2k/PromptVerse) – Prompt sharing app (Next.js + Google Auth + MongoDB)  
+🔹 [Crypto Exchange](https://github.com/vipinyadav2k/Crypto-Exchange) – Real-time crypto dashboard (React + Chakra UI)  
+🔹 [Hire-Wheels](https://github.com/vipinyadav2k/HireWheels) – Role-based vehicle booking (Spring Boot + Hibernate)
+
+---
+
+### 🏅 Achievements
+
+- 🎖 **AWS Cloud Practitioner** – Certified (2022–2025)
+- 🌐 **100xDevs Web Dev** – Level 0 to 100 (03/2025)
+- 🧠 **Leetcode Ace 75** | 200+ problems solved
+- 📘 **Udemy Web Dev** – Complete Full Stack Course
+- 👨‍🏫 Peer Tutor – Web Frameworks & Software Eng. @ NCU
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vipinyadav2k&show_icons=true&theme=radical" alt="Vipin's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipinyadav2k&layout=compact&theme=radical"/>
+</p>
+
+---
+
+### 🐍 GitHub Snake Animation
+
+![snake gif](https://github.com/vipinyadav2k/vipinyadav2k/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 💬 Quote of the Day
+> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+
+---
+
