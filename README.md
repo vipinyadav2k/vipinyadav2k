@@ -65,11 +65,10 @@
 
 ### 🌟 Projects
 
-🔹 [PromptVerse](https://github.com/vipinyadav2k/PromptVerse) – Prompt sharing app (Next.js + Google Auth + MongoDB)  
-🔹 [Crypto Exchange](https://github.com/vipinyadav2k/Crypto-Exchange) – Real-time crypto dashboard (React + Chakra UI)  
-🔹 [Hire-Wheels](https://github.com/vipinyadav2k/HireWheels) – Role-based vehicle booking (Spring Boot + Hibernate)
-🔹 [Medium](https://github.com/vipinyadav2k/Medium) – Medium clone built using Hono and React (Serverless Deployement)
-
+🔹 [Medium](https://github.com/vipinyadav2k/Medium) – Medium clone built using Hono and React (Serverless Deployment)
+🔹 [PromptVerse](https://github.com/vipinyadav2k/PromptVerse) – Prompt sharing app (Next.js + Google Auth + MongoDB)<br>
+🔹 [Crypto Exchange](https://github.com/vipinyadav2k/Crypto-Exchange) – Real-time crypto dashboard (React + Chakra UI)<br>
+🔹 [Hire-Wheels](https://github.com/vipinyadav2k/HireWheels) – Role-based vehicle booking (Spring Boot + Hibernate)<br>
 
 ---
 
