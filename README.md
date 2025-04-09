@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Vipin Yadav</h1>
-<h3 align="center">Full Stack Developer | React & Spring Boot Enthusiast</h3>
+<h3 align="center">Full Stack Developer Developer</h3>
 
 <p align="center">
   <a href="https://github.com/vipinyadav2k">
@@ -87,14 +87,8 @@
 
 ---
 
-### 🐍 GitHub Snake Animation
-
-![snake gif](https://github.com/vipinyadav2k/vipinyadav2k/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ### 💬 Quote of the Day
-> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+> *“My Keyboard goes brrrr” – Vipin Yadav*
 
 ---
 
