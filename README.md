@@ -82,7 +82,6 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vipinyadav2k&show_icons=true&theme=radical" alt="Vipin's GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipinyadav2k&layout=compact&theme=radical"/>
 </p>
 
