@@ -22,33 +22,24 @@
 ### 🚀 Tech Stack
 
 #### 👨‍💻 Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) | ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) | ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java) |
+|---|---|---|
 
 #### 💻 Frontend
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
-![GSAP](https://img.shields.io/badge/-GSAP-black?style=flat-square&logo=greensock)
+| ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) | ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js) | ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css) | ![GSAP](https://img.shields.io/badge/-GSAP-black?style=flat-square&logo=greensock) |
+|---|---|---|---|
 
 #### 🔙 Backend
-![Hono](https://img.shields.io/badge/-Hono%20JS-orange?style=flat-square&logo=cloudflare)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=spring)
+| ![Hono](https://img.shields.io/badge/-Hono%20JS-orange?style=flat-square&logo=cloudflare) | ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) | ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express) | ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=spring) |
+|---|---|---|---|
 
 #### 🗃️ Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+| ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql) | ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) |
+|---|---|---|
 
 #### ☁️ DevOps & Tools
-![GCP](https://img.shields.io/badge/-GCP-black?style=flat-square&logo=google-cloud)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
-![Serverless](https://img.shields.io/badge/-Serverless-black?style=flat-square&logo=serverless)
+| ![GCP](https://img.shields.io/badge/-GCP-black?style=flat-square&logo=google-cloud) | ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) | ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) | ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman) | ![Serverless](https://img.shields.io/badge/-Serverless-black?style=flat-square&logo=serverless) |
+|---|---|---|---|---|
 
 ---
 
