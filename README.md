@@ -65,7 +65,7 @@
 
 ### 🌟 Projects
 
-🔹 [Medium](https://github.com/vipinyadav2k/Medium) – Medium clone built using Hono and React , deployed on [Backend: Cloudflare (Serverless)  & Frontend : Vercel]
+🔹 [Medium](https://github.com/vipinyadav2k/Medium) – Medium clone built using Hono and React (Serverless Deployement)
 🔹 [PromptVerse](https://github.com/vipinyadav2k/PromptVerse) – Prompt sharing app (Next.js + Google Auth + MongoDB)  
 🔹 [Crypto Exchange](https://github.com/vipinyadav2k/Crypto-Exchange) – Real-time crypto dashboard (React + Chakra UI)  
 🔹 [Hire-Wheels](https://github.com/vipinyadav2k/HireWheels) – Role-based vehicle booking (Spring Boot + Hibernate)
