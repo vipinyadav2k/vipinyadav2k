@@ -1,6 +1,6 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Vipin Yadav</h1>
-<h3 align="center">Full Stack Developer Developer</h3>
+
+![image](https://github.com/user-attachments/assets/27638616-3d08-43ae-b22f-fe69e5da71a8)
 
 <p align="center">
   <a href="https://github.com/vipinyadav2k">
