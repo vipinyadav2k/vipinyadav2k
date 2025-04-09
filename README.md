@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/vipinyadav2k">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Web+Developer;React.js+%7C+Spring+Boot+%7C+Next.js;Building+Cool+Web+Apps+🚀;&center=true&width=500&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Web+Developer;Building+Cool+Web+Apps+🚀;&center=true&width=500&height=45">
   </a>
 </p>
 
