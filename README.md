@@ -33,6 +33,7 @@
 ![GSAP](https://img.shields.io/badge/-GSAP-black?style=flat-square&logo=greensock)
 
 #### 🔙 Backend
+![Hono](https://img.shields.io/badge/-Hono%20JS-orange?style=flat-square&logo=cloudflare)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=spring)
@@ -47,6 +48,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+![Serverless](https://img.shields.io/badge/-Serverless-black?style=flat-square&logo=serverless)
 
 ---
 
@@ -63,6 +65,7 @@
 
 ### 🌟 Projects
 
+🔹 [Medium](https://github.com/vipinyadav2k/Medium) – Medium clone built using Hono and React , deployed on [Backend: Cloudflare (Serverless)  & Frontend : Vercel]
 🔹 [PromptVerse](https://github.com/vipinyadav2k/PromptVerse) – Prompt sharing app (Next.js + Google Auth + MongoDB)  
 🔹 [Crypto Exchange](https://github.com/vipinyadav2k/Crypto-Exchange) – Real-time crypto dashboard (React + Chakra UI)  
 🔹 [Hire-Wheels](https://github.com/vipinyadav2k/HireWheels) – Role-based vehicle booking (Spring Boot + Hibernate)
