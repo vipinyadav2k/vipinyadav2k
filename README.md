@@ -1,8 +1,23 @@
 <!-- Profile Header -->
 
-<!-- HEADER + PORTFOLIO --> <p align="center"> <img src="https://github.com/user-attachments/assets/27638616-3d08-43ae-b22f-fe69e5da71a8" width="200" alt="Profile Avatar" style="border-radius: 50%"> </p> <h1 align="center">Hi, I'm Vipin Yadav 👋</h1> <p align="center"> <a href="https://vipin-yadav.com" target="_blank"> <img src="https://img.shields.io/badge/My%20Portfolio-VISIT%20NOW-9c27b0?style=for-the-badge&logo=vercel&logoColor=white"> </a> </p> <p align="center"> <a href="https://github.com/vipinyadav2k"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-stack+Web+Developer;Building+Cool+Web+Apps+🚀;Always+Learning+Something+New"> </a> </p>
-🌐 Connect With Me
-<p align="center"> <a href="mailto:vipinyadav2k@gmail.com"><img src="https://img.shields.io/badge/Gmail-vipinyadav2k@gmail.com-red?style=for-the-badge&logo=gmail"></a> <a href="https://linkedin.com/in/vipin-yadav-vy"><img src="https://img.shields.io/badge/LinkedIn-vipin--yadav--vy-blue?style=for-the-badge&logo=linkedin"></a> <a href="https://github.com/vipinyadav2k"><img src="https://img.shields.io/badge/GitHub-vipinyadav2k-black?style=for-the-badge&logo=github"></a> </p>
+![image](https://github.com/user-attachments/assets/27638616-3d08-43ae-b22f-fe69e5da71a8)
+
+<p align="center">
+  <a href="https://github.com/vipinyadav2k">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Web+Developer;Building+Cool+Web+Apps+🚀;&center=true&width=500&height=45">
+  </a>
+</p>
+
+---
+
+### 🌐 Connect with me  
+<p align="left">
+  <a href="mailto:vipinyadav2k@gmail.com"><img src="https://img.shields.io/badge/Gmail-vipinyadav2k@gmail.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://linkedin.com/in/vipin-yadav-vy"><img src="https://img.shields.io/badge/LinkedIn-vipin--yadav--vy-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/vipinyadav2k"><img src="https://img.shields.io/badge/GitHub-vipinyadav2k-black?style=for-the-badge&logo=github"></a>
+</p>
+
+---
 
 ---
 
