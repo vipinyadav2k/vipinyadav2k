@@ -18,6 +18,26 @@
 </p>
 
 ---
+🚀 Portfolio
+
+<div align="center"> <a href="https://www.vipin-yadav.com" target="_blank"> <img src="https://github.com/your-username/your-repo/assets/preview.gif" alt="Vipin Yadav Portfolio Preview" width="100%" style="border-radius: 12px; box-shadow: 0 0 20px rgba(145, 94, 255, 0.4);" /> </a> </div>
+✨ Dive into a space-themed, animation-rich journey through my skills, projects, and passion. Built with React, Next.js, GSAP, and a sprinkle of designer magic.
+
+💫 Highlights
+👨‍🚀 Futuristic UI with GSAP scroll animations
+
+🪐 Planetary skill orbit animations
+
+🚀 Rocket-scroll interactivity
+
+🌌 Galaxy-themed sections
+
+📱 Fully responsive & mobile-first
+
+🌐 Visit Now
+📎 vipin-yadav.com
+
+
 
 ---
 
