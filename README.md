@@ -64,7 +64,7 @@
 ### 🌟 Projects
 
 🔹 [Medium](https://github.com/vipinyadav2k/Medium) – Medium clone built using Hono and React (Serverless Deployment)<br>
-🔹 [PromptVerse](https://github.com/vipinyadav2k/PromptVerse) – Prompt sharing app (Next.js + Google Auth + MongoDB)<br>
+🔹 [PromptSpace](https://github.com/vipinyadav2k/PromptSpace) – Prompt sharing app (Next.js + Google Auth + MongoDB)<br>
 🔹 [Crypto Exchange](https://github.com/vipinyadav2k/Crypto-Exchange) – Real-time crypto dashboard (React + Chakra UI)<br>
 🔹 [Hire-Wheels](https://github.com/vipinyadav2k/HireWheels) – Role-based vehicle booking (Spring Boot + Hibernate)<br>
 🔹 [Type-Master](https://github.com/vipinyadav2k/Type-Master) – Minimalistic & Customizable Typing Speed and analytics platform (Next.js + Typescript)<br>
